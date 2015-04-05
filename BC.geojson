@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4104717,
+                    -118.9722559,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bakersfield College"
+            }
+        }
+    ]
+}
