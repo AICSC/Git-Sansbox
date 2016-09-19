@@ -1,0 +1,6 @@
+some git commands I learned today that I can use in MinGW aka Git Bash
+
+git init
+git add
+git commit
+git status
